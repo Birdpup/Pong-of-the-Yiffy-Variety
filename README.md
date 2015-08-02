@@ -1,1 +1,1 @@
-# Pong-of-the-Yiffy-Variety
+If you're reading this, you shouldn't.
